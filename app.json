@@ -1,0 +1,12 @@
+{
+  "name": "QrMenu",
+  "displayName": "QrMenu",
+  "expo": {
+    "name": "QrMenu",
+    "slug": "QrMenu",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
